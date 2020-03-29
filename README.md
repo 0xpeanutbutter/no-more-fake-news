@@ -1,2 +1,2 @@
-# no-more-fake-new
+# no-more-fake-news
 model to detect fake news
